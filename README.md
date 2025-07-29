@@ -1,7 +1,11 @@
 # AI_TeamProject_24FW-
 
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](./src/Paper.pdf)
+[![Post](https://img.shields.io/badge/KCC%20Poster-PDF-green)](./src/HoViT_KCC.pdf)
+
 Hi there.
 
+This repository contains the code and resources for our team project in the AI course at Ajou University, Fall 2024. The project focuses on optimizing Vision Transformers (ViTs). We developed hybrid models (convolutional and transformer-based) to improve inference speed and accuracy on image classification tasks.
 
 ## Citation
 ### Datasets
